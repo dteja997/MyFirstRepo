@@ -7,3 +7,4 @@
 "Change"
 "Hi"
 "Hello"
+"Hi"
